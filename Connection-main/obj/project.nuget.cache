@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O1kn3qnK1TDJj0K0HCf5jjjTIltOXL8NEw8wP/Ds4JN7MPgS82CrjL1KQnffBwTZh+x7YSRCcOa+xn2oWr6sDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\STUDENTS-STEM-22\\Desktop\\11d\\Connection\\Connection-main\\ConnectMySQL11d.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\STUDENTS-STEM-22\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
